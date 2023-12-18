@@ -26,8 +26,9 @@
   }
   
   .filters {
-    *zoom: 1;
-  }
+    zoom: 1;
+}
+
   
   /* Search button style */
   .filters button {
